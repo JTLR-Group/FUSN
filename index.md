@@ -11,7 +11,8 @@ Need help? <a href="https://wordpress.org/support/plugin/follow-us-store-notice/
 Bugs: <a href="https://github.com/JTLR-Group/FUSN/discussions/categories/bugs">Click</a>
 Forum: <a href="https://github.com/JTLR-Group/FUSN/discussions">Click</a>
 
-<div class="wp-block-themeisle-blocks-plugin-cards-wrapper">
+<div class="wp-block-themeisle-blocks-plugin-cards">
+				<div class="wp-block-themeisle-blocks-plugin-cards-wrapper">
 					<div class="wp-block-themeisle-blocks-plugin-cards-header">
 						<div class="wp-block-themeisle-blocks-plugin-cards-main">
 							<div class="wp-block-themeisle-blocks-plugin-cards-logo">
@@ -50,3 +51,10 @@ Forum: <a href="https://github.com/JTLR-Group/FUSN/discussions">Click</a>
 						<a href="https://downloads.wordpress.org/plugin/follow-us-store-notice.zip">Download</a>
 					</div>
 				</div>
+			</div>
+			
+<style> 
+	.wp-block-themeisle-blocks-plugin-cards {
+    padding: 20px 0;
+}
+	</style>
