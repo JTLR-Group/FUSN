@@ -3,8 +3,7 @@ Follow Us Store Notice
 JTLR Group
 FUSN Allows your Woocommerce clients to know you\'re on social media and let\'s them follow you.
 Plugin Stats
-0+ active installs
-1.1+ version
+v1.1.6
 5.8+ tested up to
 Download
 
