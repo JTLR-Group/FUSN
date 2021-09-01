@@ -1,11 +1,14 @@
 Follow Us Store Notice
-Follow Us Store Notice
+
 JTLR Group
+
 FUSN Allows your Woocommerce clients to know you\'re on social media and let\'s them follow you.
+
 Plugin Stats
+
 v1.1.6
+
 5.8+ tested up to
-Download
 
 FUSN is a WordPress plugin that allows you to let WooCommerce customers know where they can follow you with a beautiful themed banner.  
 
