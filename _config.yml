@@ -1,2 +1,5 @@
 theme: jekyll-theme-slate
 show_downloads: true
+github:
+  zip_url: https://downloads.wordpress.org/plugin/follow-us-store-notice.zip
+  targz_url: https://downloads.wordpress.org/plugin/follow-us-store-notice.zip
